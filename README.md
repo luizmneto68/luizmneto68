@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello, my name is Luiz Monteiro, I'm a Software Engineering student at FIAP and welcome to my GitHub.
 
 <!--
 **luizmneto68/luizmneto68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
