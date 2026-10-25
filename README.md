@@ -1,4 +1,4 @@
-# Hello, my name is Luiz Monteiro, I'm a Software Engineering student at FIAP and welcome to my GitHub.
+# Hello, my name is Luiz M. Neto, welcome to my GitHub.
 
 <div align="">
   <a href="https://github.com/luizmneto68">
